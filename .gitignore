@@ -1,0 +1,28 @@
+# Android Studio specific files
+.idea/
+*.iml
+local.properties
+.gradle/
+build/
+captures/
+
+# Kotlin specific files
+*.kts
+*.class
+
+# Jetpack Compose specific files
+*.apk
+*.aab
+
+# Other generated files
+**/generated/**
+**/build-cache/**
+**/tmp/**
+
+# macOS specific files
+.DS_Store
+
+# IDE specific files
+*.iws
+*.ipr
+*.swp
