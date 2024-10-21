@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template title="Use Commit Message Guidelines">
+    <chapter title="Use Commit Message Guidelines">
+        <p> Use Commit Message Guidelines</p>
+        <p>Find more information at <a href="{url}">{url_text}</a>.
+        </p>
+    </chapter>
+</template>
