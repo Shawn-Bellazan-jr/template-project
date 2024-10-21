@@ -1,7 +1,3 @@
-Here's a project description for your **GitHub repository** that reflects the structure and goals of your **Gradle Template** project with Dokka integration and JSON-based configuration:
-
----
-
 ## Gradle Template with Dokka and JSON Configuration
 
 This repository provides a **Kotlin Multiplatform Gradle Template** designed to streamline the setup of new projects. It includes pre-configured **Dokka** documentation generation and dynamic **JSON-based app settings** for flexible configuration. The goal of this template is to help developers kickstart their projects with a clean, scalable, and reusable Gradle setup that supports documentation and configuration management from the start.
@@ -43,7 +39,3 @@ This repository provides a **Kotlin Multiplatform Gradle Template** designed to 
 
 ### Contributions:
 Feel free to fork this repository and make contributions or use it as a template for your own projects. Contributions are welcome!
-
----
-
-Let me know if you would like any additional details or modifications for the description, or if you'd like me to guide you through setting up the repository further!
