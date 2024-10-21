@@ -5,11 +5,13 @@ on:
   push:
     branches:
       - main
-      - develop
+      - development
+      - feature
   pull_request:
     branches:
       - main
-      - develop
+      - development
+      - feature
 
 # Define the jobs that will run
 jobs:
