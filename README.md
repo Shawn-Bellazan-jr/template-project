@@ -1,8 +1,5 @@
-You're absolutely right! Let's include the `build-logic` module in the project structure and README. Here's the updated **Kotlin DSL Gradle Project Template README** with the `build-logic` section added:
-
----
-
 # Kotlin DSL Gradle Project Template
+![Build Status](https://github.com/Shawn-Bellazan-jr/template-project/actions/workflows/ci.yml/badge.svg)
 
 This is a template project using **Kotlin DSL** for Gradle. It demonstrates how to structure a Kotlin project, use Kotlin Gradle DSL for configuration, and includes a custom build logic module for shared build configuration.
 
@@ -187,7 +184,3 @@ If you'd like to contribute, please follow the guidelines in `docs/CONTRIBUTING.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-This template should cover all essential aspects for a **Kotlin DSL Gradle Project**. It includes detailed explanations about the project structure, how to build the project, and how to contribute. Feel free to adapt it further based on your specific project needs!
