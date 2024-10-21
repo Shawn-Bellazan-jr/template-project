@@ -1,31 +1,17 @@
 # Project Name
 
-A brief description of what the project does and who it's for.
+A brief description of the overall project.
 
-## Table of Contents
+## Directory Structure
 
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Branching Strategy](#branching-strategy)
-- [Commit Message Guidelines](#commit-message-guidelines)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Project Structure
-
-This repository is structured as follows:
-
-```
-root/
-│
-├── src/                # Source code
-├── tests/              # Unit and integration tests
-├── config/             # Configuration files
-├── docs/               # Documentation for the project
-└── .gitignore          # Git ignore rules
-```
+- [`src/`](src/README.md): Contains the source code for the project.
+- [`tests/`](tests/README.md): Contains the test cases for the project.
+- [`config/`](config/README.md): Contains configuration files for different environments.
+- [`docs/`](docs/README.md): Contains project documentation.
 
 ## Getting Started
+
+See the [root `README.md`](../README.md) for general setup instructions.
 
 ### Prerequisites
 
