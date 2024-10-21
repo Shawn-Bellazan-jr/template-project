@@ -1,16 +1,21 @@
 # `tests/` Directory
 
-This directory contains the test cases for the project.
+This directory contains all the test cases for the project. The testing framework used in this Kotlin DSL Gradle project may include JUnit, TestNG, or another testing library.
 
 ## Structure
 
-- `unit/`: Unit tests for individual components and functions.
-- `integration/`: Integration tests that test interactions between components.
-- `e2e/`: End-to-End tests that simulate user interaction with the entire system.
+- `test/kotlin/`: Unit tests and integration tests written in Kotlin.
+- `test/resources/`: Test-related configuration files or mock data.
 
 ## Running Tests
 
-To run all tests, use the following command:
+To run all tests, use Gradle's test task:
 
 ```bash
-npm test
+./gradlew test
+```
+
+## Guidelines
+- Follow the TDD (Test-Driven Development) approach whenever possible.
+- Ensure tests are isolated and independent of external resources.
+- Add proper assertions and test all possible edge cases.

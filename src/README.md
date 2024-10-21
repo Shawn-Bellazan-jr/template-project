@@ -1,15 +1,15 @@
 # `src/` Directory
 
-This directory contains all the source code for the project.
+This directory contains the source code for the project. Typically, in a Kotlin DSL Gradle project, this includes application code and resources.
 
 ## Structure
 
-- `components/`: Reusable components or modules.
-- `services/`: Services for API calls or business logic.
-- `utils/`: Utility functions or helpers.
-- `app.js`: Main entry point for the application.
+- `main/kotlin/`: Contains the Kotlin source files.
+- `main/resources/`: Contains resources like properties, configuration files, etc.
+- `test/kotlin/`: Contains test code for unit and integration tests.
 
 ## Guidelines
 
-- Ensure each component is properly tested.
-- Follow best coding practices and linting rules.
+- Follow Kotlin coding conventions and ensure proper documentation for all classes and functions.
+- Organize code into modules/packages for clarity and reusability.
+- Add tests for each new feature or bug fix in the corresponding `test/kotlin/` directory.

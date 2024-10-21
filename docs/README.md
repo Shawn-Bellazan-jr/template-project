@@ -1,15 +1,14 @@
 # `docs/` Directory
 
-This directory contains additional project documentation such as guides, API references, and design docs.
+This directory contains additional documentation for the project, including setup instructions, architecture design, and API references.
 
 ## Structure
 
-- `api/`: API documentation and usage examples.
-- `architecture.md`: Information on the project's architecture.
+- `api/`: Documentation and usage examples for the project's API.
+- `build-instructions.md`: Step-by-step guide on how to build the project locally and for production.
 - `contributing.md`: Guidelines for contributing to the project.
 
 ## Guidelines
 
-- Keep the documentation up to date with project changes.
-- Include diagrams, if applicable, for better understanding.
-- Follow markdown standards for readability.
+- Keep the documentation synchronized with the codebase, especially when introducing new features or breaking changes.
+- Provide sufficient details in API documentation and include examples when necessary.
